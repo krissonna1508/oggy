@@ -53,8 +53,8 @@ if (ua.includes("Locket")) {
             title: "chúc mừng bạn ",
             feature_set: [
                 {
-                    title: "✨✨✨✨✨",
-                    body: "Instagram : If.alex2k6",
+                    title: "✨✨Instagram : If.alex2k6✨✨",
+                    body: "💛💛💛💛💛💛💛💛💛💛",
                     imageURL: "https://i.ibb.co/kgL1GK30/taoanhdep-terminal-37818.png"
                 
                 }
