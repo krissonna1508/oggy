@@ -1,5 +1,5 @@
 #!name=Locket Custom Edition
-#!desc=Crack By nguyencongan | Tùy chỉnh Video & Caption cá nhân.
+#!desc=Crack By if.alex2006 | Tùy chỉnh Video & Caption cá nhân.
 
 [General]
 
@@ -8,10 +8,10 @@ hostname = %APPEND% api.revenuecat.com, firebaseremoteconfig.googleapis.com
 
 [Script]
 # 1. Tùy chỉnh Feature, Video 60s & Caption cá nhân
-locket_remote = type=http-response, pattern=^https?:\/\/firebaseremoteconfig\.googleapis\.com\/v1\/projects\/locket-.*, script-path=https://raw.githubusercontent.com/usatalk/locket/main/locket.js, requires-body=true, max-size=524288, timeout=60
+locket_remote = type=http-response, pattern=^https?:\/\/firebaseremoteconfig\.googleapis\.com\/v1\/projects\/locket-.*, script-path=https://raw.githubusercontent.com/locprime1508-star/kitty/main/locket.js, requires-body=true, max-size=524288, timeout=60
 
 # 2. Xóa ETag Header chống dính Cache (by nguyencongan)
-deleteHeader = type=http-request, pattern=^https:\/\/api\.revenuecat\.com\/.+\/(receipts|subscribers), script-path=https://raw.githubusercontent.com/usatalk/locket/main/deleteHeader.js, timeout=60
+deleteHeader = type=http-request, pattern=^https:\/\/api\.revenuecat\.com\/.+\/(receipts|subscribers), script-path=https://raw.githubusercontent.com/locprime1508-star/kitty/main/deleteHeader.js, timeout=60
 
 # 3. Kích hoạt Gold & Ngày 25/05/1111 (by nguyencongan)
-revenuecat = type=http-response, pattern=^https:\/\/api\.revenuecat\.com\/.+\/(receipts$|subscribers\/[^/]+$), script-path=https://raw.githubusercontent.com/usatalk/locket/main/locket_sub.js, requires-body=true, max-size=-1, timeout=60
+revenuecat = type=http-response, pattern=^https:\/\/api\.revenuecat\.com\/.+\/(receipts$|subscribers\/[^/]+$), script-path=https://raw.githubusercontent.com/locprime1508-star/kitty/main/locket_sub.js, requires-body=true, max-size=-1, timeout=60
