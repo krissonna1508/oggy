@@ -50,7 +50,7 @@ if (ua.includes("Locket")) {
             tag: "LOCKET GOLD",
             tag_gradient: true,
             tag_style: "gold_gradient",
-            title: "chúc mừng bạn,mong bạn có một trải nghiệm tốt tại Locket Gold BY ALEX ",
+            title: "Locket Gold By Alex",
             feature_set: [
                 {
                     title: "✨✨Instagram : If.alex2k6✨✨",
