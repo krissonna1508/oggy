@@ -54,8 +54,8 @@ if (ua.includes("Locket")) {
             feature_set: [
                 {
                     title: "✨✨✨✨✨",
-                    body: "💛💛💛💛💛💛💛💛💛💛",
-                    imageURL: "https://i.ibb.co/xkJMqKn/photo-2026-10-16-15-31-19.png"
+                    body: "Instagram : If.alex2k6",
+                    imageURL: "https://i.ibb.co/kgL1GK30/taoanhdep-terminal-37818.png"
                 
                 }
             ],
