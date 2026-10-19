@@ -55,11 +55,11 @@ if (ua.includes("Locket")) {
                 {
                     title: "✨✨Instagram : If.alex2k6✨✨",
                     body: "💛💛💛💛💛💛💛💛💛💛",
-                    imageURL: "https://i.ibb.co/kgL1GK30/taoanhdep-terminal-37818.png"
+                    imageURL: "https://i.ibb.co/wFMt3QT8/a04e30497d6c90fc8c6b83eb49333938.jpg"
                 
                 }
             ],
-            primary_button_title: "done",
+            primary_button_title: "Done - Insta: if.alex2k6",
             campaign: "locket_gold_welcome_v3",
             start_at: "2020-01-01T00:00:00",
             end_at: "2099-12-31T23:59:59",
