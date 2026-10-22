@@ -49,7 +49,7 @@ if (ua.includes("Locket")) {
             profile_banner: true
         }),
         feature_discovery_popup_config: JSON.stringify({
-            tag: "LOCKET GOLD ALL FEATURES BY ALEX",
+            tag: "LOCKET GOLD ALL FEATURES",
             tag_gradient: true,
             tag_style: "gold_gradient",
             title: "Giới Thiệu Bạn Bè Cùng Sử Dụng Nha",
@@ -60,7 +60,7 @@ if (ua.includes("Locket")) {
                     imageURL: "https://i.ibb.co/cKXLfHz7/L-n-Gold-R-i-C-ng-B-n-B.png"
                 }
             ],
-            primary_button_title: "Done - From Alex With Love ❤️",
+            primary_button_title: "Done - From If.alex2k6",
             campaign: "locket_gold_welcome_v3",
             start_at: "2020-01-01T00:00:00",
             end_at: "2099-12-31T23:59:59",
