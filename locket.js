@@ -49,10 +49,10 @@ if (ua.includes("Locket")) {
             profile_banner: true
         }),
         feature_discovery_popup_config: JSON.stringify({
-            tag: "LOCKET GOLD ALL FEATURES",
+            tag: "LOCKET GOLD ALL FEATURES BY ALEX",
             tag_gradient: true,
             tag_style: "gold_gradient",
-            title: "Locket Gold By Alex",
+            title: "Giới Thiệu Bạn Bè Cùng Sử Dụng Nha",
             feature_set: [
                 {
                     title: "Liên hệ Hỗ Trợ Insta: If.alex2k6",
@@ -60,7 +60,7 @@ if (ua.includes("Locket")) {
                     imageURL: "https://i.ibb.co/cKXLfHz7/L-n-Gold-R-i-C-ng-B-n-B.png"
                 }
             ],
-            primary_button_title: "Xong rồi nhé!",
+            primary_button_title: "Done - From Alex With Love ❤️",
             campaign: "locket_gold_welcome_v3",
             start_at: "2020-01-01T00:00:00",
             end_at: "2099-12-31T23:59:59",
@@ -302,7 +302,7 @@ if (ua.includes("Locket")) {
         widget_sync_token_reload_mode: "clearTokenNever",
         widget_frame_event: JSON.stringify({
             uid: "midautumn_2026",
-            url: "https://i.ibb.co/cSPbH4Bq/Khung-Anime-H-Ly-Hoa-Anh-o-Neon.png",
+            url: "https://i.ibb.co/F43Vkc2g/oggy-frame-transparent.png",
             // url: "https://i.ibb.co/RTm5P1n9/kitty-1.png",
             // url: "https://i.ibb.co/JjLZ3cvD/khung-ins.png",
             use_local_time_zone: true,
