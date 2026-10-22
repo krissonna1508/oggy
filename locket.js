@@ -52,7 +52,7 @@ if (ua.includes("Locket")) {
             tag: "LOCKET GOLD ALL FEATURES",
             tag_gradient: true,
             tag_style: "gold_gradient",
-            title: "Giới Thiệu Bạn Bè Cùng Sử Dụng Nha",
+            title: "Locket Gold By Alex",
             feature_set: [
                 {
                     title: "Liên hệ Hỗ Trợ Insta: If.alex2k6",
